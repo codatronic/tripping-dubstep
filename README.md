@@ -7,4 +7,6 @@ This is just a test repo, nothing to see here.
 README
 --------
 
-Cool test and other stuff!
+View the license: LICENSE.md
+
+### [codatronic's website](http://codatronic.github.io
