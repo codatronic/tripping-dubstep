@@ -7,18 +7,5 @@ Welcome to TRIPPINGDUBSTEP's official docs!
 ===========================================
 Created by codatronic
 ----------------------
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-
-
-Navigation
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+To view the docs look in the sidebar.
 
